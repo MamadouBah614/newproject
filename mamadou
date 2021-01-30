@@ -2,5 +2,6 @@ class project
 
        public static void main (string[] args){
 	   system.out.println("This is the first program here");
+           system.ot.println("Second line aaded now to the program");
 }
 }
